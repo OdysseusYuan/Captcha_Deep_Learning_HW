@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetJaccountCaptcha", "GetJa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitCaptchaBit", "SplitCaptchaBit\SplitCaptchaBit.csproj", "{8A22B255-C825-4EB1-8DB5-A3AB406C5948}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectNumberCaptcha", "SelectNumberCaptcha\SelectNumberCaptcha.csproj", "{63DC34E9-3AB5-4ACA-B8FC-C050F140C6AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A22B255-C825-4EB1-8DB5-A3AB406C5948}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A22B255-C825-4EB1-8DB5-A3AB406C5948}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A22B255-C825-4EB1-8DB5-A3AB406C5948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DC34E9-3AB5-4ACA-B8FC-C050F140C6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DC34E9-3AB5-4ACA-B8FC-C050F140C6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DC34E9-3AB5-4ACA-B8FC-C050F140C6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DC34E9-3AB5-4ACA-B8FC-C050F140C6AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

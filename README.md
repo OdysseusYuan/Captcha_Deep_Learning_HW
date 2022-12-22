@@ -7,6 +7,8 @@
  - GetStringFromCaptcha：使用第三方验证码库，完成爬虫验证码图片的打标
 
  - SplitCaptchaBit：可以将验证码图片按照不同位数区分开
+ 
+ - SelectNumberCaptcha：将纯数字的验证码挑出来
 
  - Traning&Predicting：自行构建 CNN 网络，通过 Python 3.10、Cuda 11.7 完成训练与预测。
 
